@@ -33,3 +33,5 @@ Each algorithm uses a different strategy:
 - **GBFS** uses heuristics to prioritize promising paths
 - **A\*** balances cost and heuristic (optimal and efficient)
 - **Bidirectional Search** accelerates finding paths by searching from both start and goal
+
+---
