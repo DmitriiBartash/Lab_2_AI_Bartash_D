@@ -35,3 +35,7 @@ Each algorithm uses a different strategy:
 - **Bidirectional Search** accelerates finding paths by searching from both start and goal
 
 ---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
